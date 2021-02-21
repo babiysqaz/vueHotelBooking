@@ -1,3 +1,5 @@
+設計稿採用自 [UI設計師 Jessy Fan](https://challenge.thef2e.com/user/1991) The F2E 2nd-第六關的作品
+
 The F2E 2nd 前端修練精神時光屋 第六關 - 旅館預約服務
 
 ### demo https://babiysqaz.github.io/vueHotelBooking/
@@ -16,9 +18,9 @@ The F2E 2nd 前端修練精神時光屋 第六關 - 旅館預約服務
 10. [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker)
 
 ### 功能
-1. [GET] 取得所有房型
-2. [GET] 單一房型細節
-3. [POST] 預約房型
+1. [GET] Ajax串接後端API 取得所有房型
+2. [GET] 根據房間ID 取得單一房型細節
+3. [POST] 輸入姓名、電話、日期以預約房型
 4. RWD響應式介面
 5. SPA單頁式應用頁面
 
