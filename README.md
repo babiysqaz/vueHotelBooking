@@ -1,6 +1,7 @@
 The F2E 2nd 前端修練精神時光屋 第六關 - 旅館預約服務
 
-### live demo https://babiysqaz.github.io/vueHotelBooking/
+### demo https://babiysqaz.github.io/vueHotelBooking/
+### demo影片 https://youtu.be/JrdWrcngn6I
 
 ### 使用技能 & 套件
 1. Vuejs
