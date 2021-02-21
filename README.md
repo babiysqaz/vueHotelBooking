@@ -1,6 +1,5 @@
-設計稿採用自 [UI設計師 Jessy Fan](https://challenge.thef2e.com/user/1991) The F2E 2nd-第六關的作品
-
 The F2E 2nd 前端修練精神時光屋 第六關 - 旅館預約服務
+設計稿採用自 [UI設計師 Jessy Fan](https://challenge.thef2e.com/user/1991) The F2E 2nd-第六關的作品
 
 ### demo https://babiysqaz.github.io/vueHotelBooking/
 ### demo影片 https://youtu.be/JrdWrcngn6I
