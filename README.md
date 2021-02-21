@@ -1,4 +1,4 @@
-# Filter - The F2E 2nd 前端修練精神時光屋 第六關 - 旅館預約服務
+The F2E 2nd 前端修練精神時光屋 第六關 - 旅館預約服務
 
 ### live demo https://babiysqaz.github.io/vueHotelBooking/
 
@@ -22,8 +22,9 @@
 5. SPA單頁式應用頁面
 
 ### 使用工具
-1.Vue Cli
-2.Chrome DevTools
-3.Postman
+1. Vue Cli
+2. Chrome DevTools
+3. Postman
+
 ### 操作畫面
 ![image](https://youtu.be/qTulZK5sZ-8)
