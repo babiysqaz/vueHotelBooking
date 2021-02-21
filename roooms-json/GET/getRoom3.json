@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "room": [
+        {
+            "id": "RA8NhExaXXZB7EODVALSDvFFQzj1JP0a4C1pwZ1acPaieRBwiWoCb0FE0KUbXaxg",
+            "name": "Double Room",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1526913621366-a4583840d736?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+                "https://images.unsplash.com/photo-1533759413974-9e15f3b745ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80",
+                "https://images.unsplash.com/photo-1501127122-f385ca6ddd9d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+            ],
+            "normalDayPrice": 2460,
+            "holidayPrice": 2500,
+            "descriptionShort": {
+                "GuestMin": 2,
+                "GuestMax": 3,
+                "Bed": [
+                    "Double"
+                ],
+                "Private-Bath": 1,
+                "Footage": 26
+            },
+            "description": "Double Room is reserved for two or three guests. There is a bedroom with a double size bed and a private bathroom. Everything you need prepared for you: sheets and blankets, towels, soap and shampoo, hairdryer are provided. In the room there is AC and of course WiFi.",
+            "checkInAndOut": {
+                "checkInEarly": "15:00",
+                "checkInLate": "19:00",
+                "checkOut": "10:00"
+            },
+            "amenities": {
+                "Wi-Fi": true,
+                "Breakfast": true,
+                "Mini-Bar": true,
+                "Room-Service": true,
+                "Television": true,
+                "Air-Conditioner": true,
+                "Refrigerator": true,
+                "Sofa": false,
+                "Great-View": false,
+                "Smoke-Free": true,
+                "Child-Friendly": true,
+                "Pet-Friendly": true
+            }
+        }
+    ],
+    "booking": []
+}

@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "room": [
+        {
+            "id": "YovqNpFDaal598jbpd1A14gXwDE6gekTqJgxOAGcq78B8YnP7claymQVFy2GTwgb",
+            "name": "Deluxe Twin Room",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1552902019-ebcd97aa9aa0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80",
+                "https://images.unsplash.com/photo-1552902019-a6dddd56544a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2124&q=80",
+                "https://images.unsplash.com/photo-1534986622832-777a66b043bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80"
+            ],
+            "normalDayPrice": 3899,
+            "holidayPrice": 4000,
+            "descriptionShort": {
+                "GuestMin": 2,
+                "GuestMax": 4,
+                "Bed": [
+                    "Queen",
+                    "Queen"
+                ],
+                "Private-Bath": 1,
+                "Footage": 40
+            },
+            "description": "Deluxe Twin Room is reserved for 2-4 guests. There is a bedroom with two queen size beds and a private bathroom. Everything you need prepared for you: sheets and blankets, towels, soap and shampoo, hairdryer are provided. In the room there is AC and of course WiFi.",
+            "checkInAndOut": {
+                "checkInEarly": "15:00",
+                "checkInLate": "19:00",
+                "checkOut": "11:00"
+            },
+            "amenities": {
+                "Wi-Fi": true,
+                "Breakfast": true,
+                "Mini-Bar": true,
+                "Room-Service": true,
+                "Television": true,
+                "Air-Conditioner": true,
+                "Refrigerator": true,
+                "Sofa": true,
+                "Great-View": true,
+                "Smoke-Free": true,
+                "Child-Friendly": true,
+                "Pet-Friendly": true
+            }
+        }
+    ],
+    "booking": []
+}

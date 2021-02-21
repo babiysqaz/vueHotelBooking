@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "room": [
+        {
+            "id": "g0mYhN6ignMz4VYW7eiWsXZN8DHolHzH8LuVmM6hq5h6BrrqrLMw4aJgHv7LZ3RQ",
+            "name": "Deluxe Single Room",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1564182379166-8fcfdda80151?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80",
+                "https://images.unsplash.com/photo-1528908929486-dfaa209c6986?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+                "https://images.unsplash.com/photo-1558211583-03ed8a0b3d5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80"
+            ],
+            "normalDayPrice": 1899,
+            "holidayPrice": 2000,
+            "descriptionShort": {
+                "GuestMin": 1,
+                "GuestMax": 1,
+                "Bed": [
+                    "Small Double"
+                ],
+                "Private-Bath": 1,
+                "Footage": 22
+            },
+            "description": "Deluxe Single Room is only reserved for one guest. There is a bedroom with a small double size bed and a private bathroom. Everything you need prepared for you: sheets and blankets, towels, soap and shampoo, hairdryer are provided. In the room there is AC and of course WiFi.",
+            "checkInAndOut": {
+                "checkInEarly": "15:00",
+                "checkInLate": "19:00",
+                "checkOut": "11:00"
+            },
+            "amenities": {
+                "Wi-Fi": true,
+                "Breakfast": true,
+                "Mini-Bar": true,
+                "Room-Service": true,
+                "Television": true,
+                "Air-Conditioner": true,
+                "Refrigerator": true,
+                "Sofa": false,
+                "Great-View": false,
+                "Smoke-Free": true,
+                "Child-Friendly": false,
+                "Pet-Friendly": true
+            }
+        }
+    ],
+    "booking": []
+}
