@@ -28,4 +28,4 @@ The F2E 2nd 前端修練精神時光屋 第六關 - 旅館預約服務
 3. Postman
 
 ### 操作畫面
-![image](https://youtu.be/qTulZK5sZ-8)
+![image](https://github.com/babiysqaz/vueHotelBooking/blob/master/demo.gif)
