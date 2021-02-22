@@ -8,12 +8,12 @@ live demo https://babiysqaz.github.io/vueHotelBooking/
 demo 影片 https://youtu.be/JrdWrcngn6I
 
 ## 使用技能 
-1. Vuejs 框架架構
+1. Vue.js 框架架構
 2. Vuex 處理平行元件的處理
 3. Vue Router 製作 SPA 網頁架構
-4. Bootstrap4 引入components與icons
+4. Bootstrap4 引入 components 與 icons
 5. JS(ES6+) 對從後端取得的資料做處理運用
-6. Html、Css、Dart Sass 製作RWD響應式介面
+6. HTML、CSS、Dart Sass 製作RWD響應式介面
 7. Ajax 與後端串接 API（房型資料、訂房資料）
 
 ## 功能
@@ -25,7 +25,7 @@ demo 影片 https://youtu.be/JrdWrcngn6I
 
 
 ## 使用工具 & 套件
-1. Vue Cli3 內建webpack，方便快速建構工作環境與管理套件
+1. Vue Cli3 內建 webpack，方便快速建構工作環境與管理套件
 2. Chrome DevTools 網頁測試工具
 3. Postman 測試後端API資料
 4. axios 處理非同步
