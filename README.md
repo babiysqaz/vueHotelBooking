@@ -2,7 +2,7 @@
 
 設計稿採用自 [UI設計師 Jessy Fan](https://challenge.thef2e.com/user/1991) The F2E 2nd-第六關的作品
 
-# demo 
+## demo 
 live demo https://babiysqaz.github.io/vueHotelBooking/
 demo 影片 https://youtu.be/JrdWrcngn6I
 
@@ -29,6 +29,7 @@ demo 影片 https://youtu.be/JrdWrcngn6I
 3. Postman 測試後端API資料
 4. axios 處理非同步
 5. [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) 第三方日期選擇器套件
+6. EMMET 輔助高速編寫代碼的工具
 
 
 ## 操作畫面
