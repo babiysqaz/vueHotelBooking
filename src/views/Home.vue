@@ -124,9 +124,8 @@ export default {
         });
     }
 },
-};
-
-axios
+created() {
+  axios
   .get("https://challenge.thef2e.com/api/thef2e2019/stage6/rooms", {
     headers: {
       accept: 'application/json',
@@ -147,6 +146,10 @@ axios
       list[i].setAttribute("height",list[i].width*0.86);
     }
   }
+}
+};
+
+
 </script>
 
 <style lang="sass" scoped>
